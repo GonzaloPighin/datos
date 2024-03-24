@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "JPG",
+        "id": "0a8b2e4a3b010c3d07c38decef630a24",
+        "name": "DJI_0445.JPG",
+        "path": "file:D:/Gonzalo/Invierno%202021/Fisco%20(25%20de%20agosto%20del%202021)/Vuelos%20dron%20Fisco%20Agosto%2021%20(1)/DJI_0445.JPG",
+        "size": {
+            "width": 4864,
+            "height": 3648
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "hRcyLEQdi",
+            "type": "RECTANGLE",
+            "tags": [
+                "yacaré"
+            ],
+            "boundingBox": {
+                "height": 61.83050847457626,
+                "width": 177.24758342161016,
+                "left": 4039.078091896186,
+                "top": 2370.1694915254234
+            },
+            "points": [
+                {
+                    "x": 4039.078091896186,
+                    "y": 2370.1694915254234
+                },
+                {
+                    "x": 4216.325675317797,
+                    "y": 2370.1694915254234
+                },
+                {
+                    "x": 4216.325675317797,
+                    "y": 2432
+                },
+                {
+                    "x": 4039.078091896186,
+                    "y": 2432
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

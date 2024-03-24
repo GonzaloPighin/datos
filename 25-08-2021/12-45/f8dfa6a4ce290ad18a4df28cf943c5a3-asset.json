@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "JPG",
+        "id": "f8dfa6a4ce290ad18a4df28cf943c5a3",
+        "name": "DJI_0522.JPG",
+        "path": "file:D:/Gonzalo/Invierno%202021/Fisco%20(25%20de%20agosto%20del%202021)/Vuelos%20dron%20Fisco%20Agosto%2021%20(1)/DJI_0522.JPG",
+        "size": {
+            "width": 4864,
+            "height": 3648
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "A-UUv2Z-u",
+            "type": "RECTANGLE",
+            "tags": [
+                "carpincho"
+            ],
+            "boundingBox": {
+                "height": 65.9527939618644,
+                "width": 94.80690545550847,
+                "left": 1413.34230998411,
+                "top": 2559.7829879502115
+            },
+            "points": [
+                {
+                    "x": 1413.34230998411,
+                    "y": 2559.7829879502115
+                },
+                {
+                    "x": 1508.1492154396185,
+                    "y": 2559.7829879502115
+                },
+                {
+                    "x": 1508.1492154396185,
+                    "y": 2625.735781912076
+                },
+                {
+                    "x": 1413.34230998411,
+                    "y": 2625.735781912076
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

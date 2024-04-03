@@ -1,0 +1,26 @@
+# YOLOv8 
+# Dataset https://github.com/GonzaloPighin/datos (Fotografías marcadas, tomadas desde un dron Phantom Pro 4)
+# Ejemplo de invocación: python train.py --data dataset.yaml
+# parent
+# ├── yolov8
+# └── datasets  ← Se descarga acá.
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+
+ruta: ../dataset         # Directorio raíz del set de datos.
+train: ../entrenamiento  # Imágenes y etiquetas de entrenamiento.
+val: ../validacion       # Imágenes y etiquetas de validación.
+test: ../prueba          # Imágenes y etiquetas de prueba.
+
+# Clases
+names:
+  0: yacaré
+  1: vaca
+  2: tortuga
+  3: ave
+  4: carpincho
+  5: humano
+  6: vehículo
+
+nc: 7                                                                      # número de clases
+clases: ['yacaré', 'vaca','tortuga','ave','carpincho','humano','vehículo'] # nombre de las clases

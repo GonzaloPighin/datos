@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "JPG",
+        "id": "1c1ce1accdd1b0980439ce116dad7d48",
+        "name": "DJI_0852_W.JPG",
+        "path": "file:C:/Users/gonza/OneDrive/Desktop/CrocPictures/DJI_0852_W.JPG",
+        "size": {
+            "width": 8000,
+            "height": 6000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "gAEFpsad8",
+            "type": "RECTANGLE",
+            "tags": [
+                "yacaré"
+            ],
+            "boundingBox": {
+                "height": 5437.288058006157,
+                "width": 2128.8136627714516,
+                "left": 3456.779867915784,
+                "top": 562.7119419938427
+            },
+            "points": [
+                {
+                    "x": 3456.779867915784,
+                    "y": 562.7119419938427
+                },
+                {
+                    "x": 5585.593530687235,
+                    "y": 562.7119419938427
+                },
+                {
+                    "x": 5585.593530687235,
+                    "y": 6000
+                },
+                {
+                    "x": 3456.779867915784,
+                    "y": 6000
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

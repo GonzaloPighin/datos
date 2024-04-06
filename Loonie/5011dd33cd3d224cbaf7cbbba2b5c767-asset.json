@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "JPG",
+        "id": "5011dd33cd3d224cbaf7cbbba2b5c767",
+        "name": "DJI_0940_W.JPG",
+        "path": "file:C:/Users/gonza/OneDrive/Desktop/CrocPictures/DJI_0940_W.JPG",
+        "size": {
+            "width": 8000,
+            "height": 6000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "afb4P0GPa",
+            "type": "RECTANGLE",
+            "tags": [
+                "yacaré"
+            ],
+            "boundingBox": {
+                "height": 4101.6949152542375,
+                "width": 2732.203596729343,
+                "left": 2683.898408534163,
+                "top": 576.271186440678
+            },
+            "points": [
+                {
+                    "x": 2683.898408534163,
+                    "y": 576.271186440678
+                },
+                {
+                    "x": 5416.102005263507,
+                    "y": 576.271186440678
+                },
+                {
+                    "x": 5416.102005263507,
+                    "y": 4677.966101694916
+                },
+                {
+                    "x": 2683.898408534163,
+                    "y": 4677.966101694916
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

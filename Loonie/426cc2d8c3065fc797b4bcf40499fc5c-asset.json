@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "JPG",
+        "id": "426cc2d8c3065fc797b4bcf40499fc5c",
+        "name": "DJI_0860_W.JPG",
+        "path": "file:C:/Users/gonza/OneDrive/Desktop/CrocPictures/DJI_0860_W.JPG",
+        "size": {
+            "width": 8000,
+            "height": 6000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "luZAVgyku",
+            "type": "RECTANGLE",
+            "tags": [
+                "yacaré"
+            ],
+            "boundingBox": {
+                "height": 5376.271393339513,
+                "width": 2047.4574202198094,
+                "left": 3619.491835771981,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 3619.491835771981,
+                    "y": 0
+                },
+                {
+                    "x": 5666.949255991791,
+                    "y": 0
+                },
+                {
+                    "x": 5666.949255991791,
+                    "y": 5376.271393339513
+                },
+                {
+                    "x": 3619.491835771981,
+                    "y": 5376.271393339513
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

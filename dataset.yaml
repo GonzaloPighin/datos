@@ -7,10 +7,10 @@
 
 # Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
 
-ruta: ../dataset         # Directorio raíz del set de datos.
-train: ../entrenamiento  # Imágenes y etiquetas de entrenamiento.
-val: ../validacion       # Imágenes y etiquetas de validación.
-test: ../prueba          # Imágenes y etiquetas de prueba.
+ruta: ../yolov8/dataset         # Directorio raíz del set de datos.
+train: ../yolov8/subsets/entrenamiento  # Imágenes y etiquetas de entrenamiento.
+val: ../yolov8/subsets/validacion       # Imágenes y etiquetas de validación.
+test: ../yolov8/subsets/prueba          # Imágenes y etiquetas de prueba.
 
 # Clases
 names:

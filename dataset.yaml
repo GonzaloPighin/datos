@@ -8,9 +8,9 @@
 # Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
 
 ruta: /home/gpighin/yolov8/dataset         # Directorio raíz del set de datos.
-train: /home/gpighin/yolov8/subset/entrenamiento  # Imágenes y etiquetas de entrenamiento.
-val: /home/gpighin/yolov8/subset/validacion       # Imágenes y etiquetas de validación.
-test: /home/gpighin/yolov8/subset/prueba          # Imágenes y etiquetas de prueba.
+train: /home/gpighin/yolov8/subsets/entrenamiento  # Imágenes y etiquetas de entrenamiento.
+val: /home/gpighin/yolov8/subsets/validacion       # Imágenes y etiquetas de validación.
+test: /home/gpighin/yolov8/subsets/prueba          # Imágenes y etiquetas de prueba.
 
 # Clases
 names:

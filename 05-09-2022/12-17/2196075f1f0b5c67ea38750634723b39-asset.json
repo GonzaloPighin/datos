@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2196075f1f0b5c67ea38750634723b39",
+        "name": "DJI_0617.jpg",
+        "path": "file:D:/Gonzalo/Invierno%202022/114,%20Cacique%20y%20Pancho%20(5-6%20de%20septiembre%20de%202022)/Cacique%20-%20este%201/DJI_0617.jpg",
+        "size": {
+            "width": 4864,
+            "height": 3648
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "b-IAcpO4h",
+            "type": "RECTANGLE",
+            "tags": [
+                "yacaré"
+            ],
+            "boundingBox": {
+                "height": 46,
+                "width": 30,
+                "left": 3079,
+                "top": 1223
+            },
+            "points": [
+                {
+                    "x": 3079,
+                    "y": 1223
+                },
+                {
+                    "x": 3109,
+                    "y": 1223
+                },
+                {
+                    "x": 3109,
+                    "y": 1269
+                },
+                {
+                    "x": 3079,
+                    "y": 1269
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

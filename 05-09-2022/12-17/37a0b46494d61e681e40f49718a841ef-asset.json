@@ -1,0 +1,389 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "37a0b46494d61e681e40f49718a841ef",
+        "name": "DJI_0609.jpg",
+        "path": "file:D:/Gonzalo/Invierno%202022/114,%20Cacique%20y%20Pancho%20(5-6%20de%20septiembre%20de%202022)/Cacique%20-%20este%201/DJI_0609.jpg",
+        "size": {
+            "width": 4864,
+            "height": 3648
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "5wWGgL0uw",
+            "type": "RECTANGLE",
+            "tags": [
+                "yacaré"
+            ],
+            "boundingBox": {
+                "height": 65.9527939618644,
+                "width": 78.31854972192797,
+                "left": 856.8678909560381,
+                "top": 3075.037225238347
+            },
+            "points": [
+                {
+                    "x": 856.8678909560381,
+                    "y": 3075.037225238347
+                },
+                {
+                    "x": 935.1864406779661,
+                    "y": 3075.037225238347
+                },
+                {
+                    "x": 935.1864406779661,
+                    "y": 3140.9900192002115
+                },
+                {
+                    "x": 856.8678909560381,
+                    "y": 3140.9900192002115
+                }
+            ]
+        },
+        {
+            "id": "5wWGgL0uv",
+            "type": "RECTANGLE",
+            "tags": [
+                "yacaré"
+            ],
+            "boundingBox": {
+                "height": 29,
+                "width": 52,
+                "left": 3031,
+                "top": 63
+            },
+            "points": [
+                {
+                    "x": 3031,
+                    "y": 63
+                },
+                {
+                    "x": 3083,
+                    "y": 63
+                },
+                {
+                    "x": 3083,
+                    "y": 92
+                },
+                {
+                    "x": 3031,
+                    "y": 92
+                }
+            ]
+        },
+        {
+            "id": "5wWGgL0uu",
+            "type": "RECTANGLE",
+            "tags": [
+                "yacaré"
+            ],
+            "boundingBox": {
+                "height": 48,
+                "width": 15,
+                "left": 3041,
+                "top": 85
+            },
+            "points": [
+                {
+                    "x": 3041,
+                    "y": 85
+                },
+                {
+                    "x": 3056,
+                    "y": 85
+                },
+                {
+                    "x": 3056,
+                    "y": 133
+                },
+                {
+                    "x": 3041,
+                    "y": 133
+                }
+            ]
+        },
+        {
+            "id": "5wWGgL0ut",
+            "type": "RECTANGLE",
+            "tags": [
+                "yacaré"
+            ],
+            "boundingBox": {
+                "height": 46,
+                "width": 41,
+                "left": 3042,
+                "top": 95
+            },
+            "points": [
+                {
+                    "x": 3042,
+                    "y": 95
+                },
+                {
+                    "x": 3083,
+                    "y": 95
+                },
+                {
+                    "x": 3083,
+                    "y": 141
+                },
+                {
+                    "x": 3042,
+                    "y": 141
+                }
+            ]
+        },
+        {
+            "id": "5wWGgL0us",
+            "type": "RECTANGLE",
+            "tags": [
+                "yacaré"
+            ],
+            "boundingBox": {
+                "height": 43,
+                "width": 36,
+                "left": 3070,
+                "top": 88
+            },
+            "points": [
+                {
+                    "x": 3070,
+                    "y": 88
+                },
+                {
+                    "x": 3106,
+                    "y": 88
+                },
+                {
+                    "x": 3106,
+                    "y": 131
+                },
+                {
+                    "x": 3070,
+                    "y": 131
+                }
+            ]
+        },
+        {
+            "id": "5wWGgL0ur",
+            "type": "RECTANGLE",
+            "tags": [
+                "yacaré"
+            ],
+            "boundingBox": {
+                "height": 51,
+                "width": 68,
+                "left": 3214,
+                "top": 125
+            },
+            "points": [
+                {
+                    "x": 3214,
+                    "y": 125
+                },
+                {
+                    "x": 3282,
+                    "y": 125
+                },
+                {
+                    "x": 3282,
+                    "y": 176
+                },
+                {
+                    "x": 3214,
+                    "y": 176
+                }
+            ]
+        },
+        {
+            "id": "5wWGgL0uq",
+            "type": "RECTANGLE",
+            "tags": [
+                "yacaré"
+            ],
+            "boundingBox": {
+                "height": 17,
+                "width": 51,
+                "left": 3532,
+                "top": 258
+            },
+            "points": [
+                {
+                    "x": 3532,
+                    "y": 258
+                },
+                {
+                    "x": 3583,
+                    "y": 258
+                },
+                {
+                    "x": 3583,
+                    "y": 275
+                },
+                {
+                    "x": 3532,
+                    "y": 275
+                }
+            ]
+        },
+        {
+            "id": "5wWGgL0up",
+            "type": "RECTANGLE",
+            "tags": [
+                "yacaré"
+            ],
+            "boundingBox": {
+                "height": 14,
+                "width": 52,
+                "left": 3653,
+                "top": 421
+            },
+            "points": [
+                {
+                    "x": 3653,
+                    "y": 421
+                },
+                {
+                    "x": 3705,
+                    "y": 421
+                },
+                {
+                    "x": 3705,
+                    "y": 435
+                },
+                {
+                    "x": 3653,
+                    "y": 435
+                }
+            ]
+        },
+        {
+            "id": "5wWGgL0uo",
+            "type": "RECTANGLE",
+            "tags": [
+                "yacaré"
+            ],
+            "boundingBox": {
+                "height": 25,
+                "width": 45,
+                "left": 3643,
+                "top": 448
+            },
+            "points": [
+                {
+                    "x": 3643,
+                    "y": 448
+                },
+                {
+                    "x": 3688,
+                    "y": 448
+                },
+                {
+                    "x": 3688,
+                    "y": 513
+                },
+                {
+                    "x": 3643,
+                    "y": 513
+                }
+            ]
+        },
+        {
+            "id": "5wWGgL0un",
+            "type": "RECTANGLE",
+            "tags": [
+                "yacaré"
+            ],
+            "boundingBox": {
+                "height": 89,
+                "width": 28,
+                "left": 3782,
+                "top": 567
+            },
+            "points": [
+                {
+                    "x": 3782,
+                    "y": 567
+                },
+                {
+                    "x": 3820,
+                    "y": 567
+                },
+                {
+                    "x": 3820,
+                    "y": 646
+                },
+                {
+                    "x": 3782,
+                    "y": 646
+                }
+            ]
+        },
+        {
+            "id": "5wWGgL0um",
+            "type": "RECTANGLE",
+            "tags": [
+                "yacaré"
+            ],
+            "boundingBox": {
+                "height": 64,
+                "width": 54,
+                "left": 3831,
+                "top": 618
+            },
+            "points": [
+                {
+                    "x": 3831,
+                    "y": 618
+                },
+                {
+                    "x": 3885,
+                    "y": 618
+                },
+                {
+                    "x": 3885,
+                    "y": 682
+                },
+                {
+                    "x": 3831,
+                    "y": 682
+                }
+            ]
+        },
+        {
+            "id": "5wWGgL0ul",
+            "type": "RECTANGLE",
+            "tags": [
+                "yacaré"
+            ],
+            "boundingBox": {
+                "height": 21,
+                "width": 24,
+                "left": 3900,
+                "top": 651
+            },
+            "points": [
+                {
+                    "x": 3900,
+                    "y": 651
+                },
+                {
+                    "x": 3924,
+                    "y": 651
+                },
+                {
+                    "x": 3924,
+                    "y": 712
+                },
+                {
+                    "x": 3900,
+                    "y": 712
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

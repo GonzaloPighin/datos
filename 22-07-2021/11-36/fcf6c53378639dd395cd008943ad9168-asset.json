@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "JPG",
+        "id": "fcf6c53378639dd395cd008943ad9168",
+        "name": "DJI_0632.JPG",
+        "path": "file:E:/Gonzalo/Invierno%202021/yacar%C3%A9s%20(22-07-21)%20Cacique%20Ariacaiqu%C3%ADn%20y%20114/Primera%20parte%20(reenumerar%20faltantes)/Cacique%20Ariacaiqu%C3%ADn/11-36/DJI_0632.JPG",
+        "size": {
+            "width": 4864,
+            "height": 3648
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "hI0aLcCU6",
+            "type": "RECTANGLE",
+            "tags": [
+                "ave"
+            ],
+            "boundingBox": {
+                "height": 49.464438228283896,
+                "width": 49.46428098516949,
+                "left": 650.7661960407838,
+                "top": 1739.4983365333685
+            },
+            "points": [
+                {
+                    "x": 650.7661960407838,
+                    "y": 1739.4983365333685
+                },
+                {
+                    "x": 700.2304770259533,
+                    "y": 1739.4983365333685
+                },
+                {
+                    "x": 700.2304770259533,
+                    "y": 1788.9627747616523
+                },
+                {
+                    "x": 650.7661960407838,
+                    "y": 1788.9627747616523
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
